@@ -46,23 +46,7 @@ if(succeed == false){
 
 ---
 
-### ⚙ Github Analytics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arun-chouhan-7&theme=nord_dark">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arun-chouhan-7&theme=nord_dark" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-arun-7&theme=chartreuse-dark&layout=compact" width="335">
-</p>
-
----
-### ⚙ Commits Streak 
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-chouhan-7&theme=radical">
-
-</p>
-
-
+<
 ___
 
 ### Coding Stats
