@@ -45,7 +45,12 @@ if(succeed == false){
 </p>
 
 ---
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arun-singh-chouhan-53a256230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arun-singh-chouhan-53a256230" height="30" width="40" /></a>
+<a href="https://instagram.com/a_rajput3443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_rajput3443" height="30" width="40" /></a>
+<a href="https://discord.gg/arunsingh chouhan#8505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="arunsingh chouhan#8505" height="30" width="40" /></a>
+</p>
 <
 ___
 
